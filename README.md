@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=raisilhamn&color=blue)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisilhamn&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/raisilhamn?tab=repositories#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisilhamn&layout=compact&theme=default#gh-light-mode-only)](https://github.com/raisilhamn?tab=repositories#gh-light-mode-only)
